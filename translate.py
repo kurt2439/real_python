@@ -1,0 +1,5 @@
+text = input( "Enter some text: " )
+text = text.replace("a","4")
+text = text.replace("b","8")
+text = text.replace("e","3")
+print( text )
